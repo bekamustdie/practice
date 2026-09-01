@@ -1,3 +1,4 @@
-line 1
 user 1 changed file
-user 2 changed file 
+user 1 added new line without pulling fresh code 
+extra line of code 
+just to show 
